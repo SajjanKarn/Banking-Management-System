@@ -1,0 +1,10 @@
+sajjan 20 sajjan 17763 0
+Account created on: 2024-09-05 18:44:16 with initial balance: 1000.000000
+Deposited: 500 on: 2024-09-05 19:00:06
+Withdrew: 500 on: 2024-09-05 19:00:18
+Withdrew: 1000 on: 2024-09-05 19:00:35
+---
+manish 25 manish 18077 6500
+Account created on: 2024-09-05 18:45:52 with initial balance: 6000.000000
+Deposited: 500 on: 2024-09-05 18:59:51
+---
